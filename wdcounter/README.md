@@ -1,2 +1,2 @@
 # Word Counter
-Counts words with extra features
+Counts words with extra features.
