@@ -1,2 +1,2 @@
-# Simple Projects
-Class projects and practice projects with extended features.
+# Python Projects
+Simple python projects with extended features.
