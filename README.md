@@ -1,2 +1,2 @@
 # Python Projects
-Simple python projects to pratice programming.
+Simple projects to practice python.
