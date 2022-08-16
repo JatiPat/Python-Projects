@@ -1,6 +1,6 @@
 # Jatin Patel 2719019 #
 
-import sys
+import sys #importing sys to use for taking in command
 
 infile = open(sys.argv[1], "r") # taking in commandline file #
 diffcount = 0
