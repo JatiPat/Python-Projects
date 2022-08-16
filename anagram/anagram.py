@@ -1,9 +1,9 @@
-def sort(arr): #Bubble sorting the letters!
-	n = len(arr)
-	for i in range(n):
-		for j in range(n - i - 1):
-			if arr[j] > arr[j + 1]:
-				arr[j], arr[j + 1] = arr[j + 1], arr[j]
+def sort(arr): #Bubble sorting through the letters
+	n = len(arr) - 1 #find the length of the array
+	for i in range(n): #for left variable loop
+		for j in range(n - i): #for the right variable loop
+			if arr[j] > arr[j + 1]: #if the variable on the left is greater than the right, switch them!
+				arr[j], arr[j + 1] = arr[j + 1], arr[j] #switch statement
 	return arr
 
 def main():
